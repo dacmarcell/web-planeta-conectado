@@ -1,4 +1,5 @@
 export type IPost = {
+  //TODO: fix attrs below
   id: string;
   title: string;
   description: string;
